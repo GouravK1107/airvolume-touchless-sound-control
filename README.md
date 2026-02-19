@@ -121,3 +121,15 @@ Press **Q** to exit.
 ## 📄 License
 
 This project is open-source and available under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+Gourav K  
+BCA Student | Backend & AI Enthusiast  
+Focused on mastering Computer Vision & AI systems.
+
+---
+
+⭐ If you found this project useful, consider starring the repository!
