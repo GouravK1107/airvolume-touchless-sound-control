@@ -9,6 +9,11 @@ A real-time hand-gesture volume control system built with **MediaPipe, OpenCV, a
 
 ---
 
+> 🎓 **Project Type: Learning**
+>
+> This project is built for learning purposes. I created it to understand and practice new concepts, tools, and technologies. The code may not follow production-level standards, and it's a work in progress as I keep exploring and improving.
+
+
 ## 🚀 Features
 
 - ✋ Real-time hand tracking
